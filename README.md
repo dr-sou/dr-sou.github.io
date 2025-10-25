@@ -1,3 +1,4 @@
 # dr-sou.github.io
 
-My name is Seoung Mann Sou
+Hier geht es zu meiner website.
+alle Veränderungen werden in der index.html durchgeführt 
